@@ -21,4 +21,4 @@
 
 中间图片按比例缩放绘图，不变形，不拉伸
 
-
+https://github.com/vivien2012/FirstVideoControlView/blob/master/show.png?raw=true
