@@ -21,3 +21,4 @@
 
 中间图片按比例缩放绘图，不变形，不拉伸
 
+![memory usage](show.png)
